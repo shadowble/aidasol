@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/aidasol/static/css/main.f1a3e7bf.css",
+    "main.js": "/aidasol/static/js/main.9937ecdb.js",
+    "static/js/592.bb05c1f2.chunk.js": "/aidasol/static/js/592.bb05c1f2.chunk.js",
+    "static/media/Illustration3.jpg": "/aidasol/static/media/Illustration3.b4f3488f40fe534e70b2.jpg",
+    "static/media/Illustration1.jpg": "/aidasol/static/media/Illustration1.6d6816e323eb433292b3.jpg",
+    "static/media/Illustration2.jpg": "/aidasol/static/media/Illustration2.597019dabeb106b78686.jpg",
+    "static/media/Alexandre.jpeg": "/aidasol/static/media/Alexandre.43a00d16f72299503f79.jpeg",
+    "static/media/Antoine.jpeg": "/aidasol/static/media/Antoine.ab503ee8a550a50ca1b8.jpeg",
+    "static/media/Marc.jpeg": "/aidasol/static/media/Marc.7a4efd3329b0cb1d1f83.jpeg",
+    "static/media/Sophie.jpeg": "/aidasol/static/media/Sophie.85b354316ed00bc5f673.jpeg",
+    "static/media/Elodie.jpeg": "/aidasol/static/media/Elodie.1a1929c17730a50869ac.jpeg",
+    "static/media/Caroline.jpeg": "/aidasol/static/media/Caroline.331824d4d0f17f785dfb.jpeg",
+    "static/media/LogoAida.png": "/aidasol/static/media/LogoAida.ad3a0aac3403a51e8e3e.png",
+    "static/media/partage.jpg": "/aidasol/static/media/partage.76fb657c0b069bef52d7.jpg",
+    "static/media/Imgfooter.jpg": "/aidasol/static/media/Imgfooter.039e07b399f1b30dcdde.jpg",
+    "static/media/Logoworld.svg": "/aidasol/static/media/Logoworld.00d0edbfa83e57c7ed895bdc9c566976.svg",
+    "static/media/Like.svg": "/aidasol/static/media/Like.faec615ac3ed50f0440fbaabb0ed22b1.svg",
+    "static/media/Commentaire.svg": "/aidasol/static/media/Commentaire.359a48ce9dce9e0b8a52a5c03c68b262.svg",
+    "index.html": "/aidasol/index.html",
+    "static/media/LogOut.svg": "/aidasol/static/media/LogOut.51db1d4d69068e01e9d8d2e0f0b85f9b.svg",
+    "static/media/Btnmessage.svg": "/aidasol/static/media/Btnmessage.fd684ff5388c45ab62ca25734048a177.svg",
+    "static/media/Linkedin.svg": "/aidasol/static/media/Linkedin.832b25a163c809752a8bb4d8c586b18e.svg",
+    "static/media/LogoMenu.svg": "/aidasol/static/media/LogoMenu.a71c9fcadc6bd574aa4d93c58875c394.svg",
+    "static/media/Facebook.svg": "/aidasol/static/media/Facebook.13297274ffdaa565e652b18ef6696c53.svg",
+    "static/media/Twitter.svg": "/aidasol/static/media/Twitter.63f3bd9940ce05d120e4038793c9d8fd.svg",
+    "main.f1a3e7bf.css.map": "/aidasol/static/css/main.f1a3e7bf.css.map",
+    "main.9937ecdb.js.map": "/aidasol/static/js/main.9937ecdb.js.map",
+    "592.bb05c1f2.chunk.js.map": "/aidasol/static/js/592.bb05c1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a3e7bf.css",
+    "static/js/main.9937ecdb.js"
+  ]
+}
